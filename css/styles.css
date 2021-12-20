@@ -11772,7 +11772,7 @@ p {
     transition: font-size 0.3s ease-in-out;
   }
   #mainNav .navbar-brand img {
-    height: 2rem;
+    height: 6rem;
     transition: height 0.3s ease-in-out;
   }
   #mainNav.navbar-shrink {
@@ -11827,6 +11827,12 @@ header.masthead .masthead-heading {
     padding-top: 8rem;
     padding-bottom: 10rem;
   }
+
+  #mainNav .navbar-brand img {
+    height: 6rem;
+    transition: height 0.3s ease-in-out;
+  }
+
   header.masthead .masthead-subheading {
     font-size: 2.25rem;
     font-style: italic;
