@@ -12366,6 +12366,10 @@ section#contact form#contactForm :-ms-input-placeholder {
     margin-left: 20px;
   }
 
+  header.masthead {
+    line-height: 4.25rem;
+  }
+
   #contact {
     padding: 2rem 0;
   }
