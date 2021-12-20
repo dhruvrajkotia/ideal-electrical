@@ -12363,8 +12363,6 @@ section#contact form#contactForm :-ms-input-placeholder {
 @media screen and (max-width: 1000px) {
   .direct-contact-container {
     margin-top: 30px;
-    max-width: 280px;
-    float: none;
     margin-left: 20px;
   }
 
